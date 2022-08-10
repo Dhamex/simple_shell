@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Isaac Baccah <[isaacbaccah](https://github.com/isaacbaccah)>
-* Liliyosa <[liliyosa](https://github.com/liliyosa)>
+* Job Adeleke <[Dhamex](https://github.com/Dhamex)>
+* Segun Gbadamosi <[segundgbadamosi](https://github.com/segungbadamosi)>
 
 ## License :lock:
 
